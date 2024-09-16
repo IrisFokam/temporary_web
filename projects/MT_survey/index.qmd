@@ -1,0 +1,14 @@
+---
+title: "Custumer response to a survey question"
+description: "Bar plot comparing two variables from a customer survey"
+image: featured.png
+image-alt: MT Survey
+categories:
+  - Survey
+about:
+  template: solana
+  image: featured.png
+---
+
+
+
