@@ -1,0 +1,21 @@
+---
+title: "Personal website"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.png
+  links:
+    - icon: twitter
+      href: https://twitter.com/yourusername
+    - icon: github
+      href: https://github.com/IrisFokam
+---
+
+**Brief description of me**
+
+I am called Iris Fokam, and I was borne and raised in Central Africa Cameroon. I am currently a Junior in college and I love singing and cooking as hobbies. Right now I am "enjoying" the joys of independent life as I strive to take care of myself and pay my rent on time.
+
+**Education**
+
+Macalester College \| St. Paul MN\
+Data Science Major \| August 2022 - May 2026
